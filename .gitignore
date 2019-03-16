@@ -12,3 +12,8 @@
 
 # MacOS
 .DS_Store
+
+# Enviroment configuration
+.env
+.env.development
+.env.local
