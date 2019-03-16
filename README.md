@@ -10,9 +10,9 @@
 ├── scripts     // Plugins and 3rd party scripts that are loaded during initialization
 ├── source      // Assets and files that will be published to final output
 └── src         // Source files that will be built and published to source folder
-    ├── assets  // Static assets that can be just dumped into public folder
+    ├── js      // JavaScript files that will be build into scripts folder.
+    ├── scss    // SCSS files that will be build into css files
+    └── assets  // Static assets
             ├── icons
             └── images
-        ├── js   // JavaScript files that will be build into scripts folder.
-        └── scss // SCSS files that will be build into css files
 ```
