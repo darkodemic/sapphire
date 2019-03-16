@@ -6,5 +6,9 @@
   "repository": "https://github.com/darkodemic/sapphire",
   "author": "Darko Demić <mail@darkodemic.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  },
+  "devDependencies": {}
 }
