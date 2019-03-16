@@ -1,1 +1,1 @@
-# Starter Theme for Hexo static site generator
+# Starter theme for Hexo static site generator
