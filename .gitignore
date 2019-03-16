@@ -1,0 +1,14 @@
+# Node Modules folder
+/node_modules/
+
+# IDEs and Editors
+/.code/
+/.vscode/
+/.idea/
+
+##
+# Generic stuff
+##
+
+# MacOS
+.DS_Store
