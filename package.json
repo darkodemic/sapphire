@@ -7,6 +7,10 @@
   "author": "Darko Demić <mail@darkodemic.com>",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
   "dependencies": {
     "bootstrap": "^4.3.1"
   },
