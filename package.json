@@ -1,0 +1,10 @@
+{
+  "name": "sapphire",
+  "version": "0.0.1",
+  "description": "Starter theme for Hexo static site generator",
+  "main": "index.js",
+  "repository": "https://github.com/darkodemic/sapphire",
+  "author": "Darko Demić <mail@darkodemic.com>",
+  "license": "MIT",
+  "private": false
+}
