@@ -1,9 +1,16 @@
 const path = require('path');
 
 module.exports = {
-  entry: './src/index.js',
+  entry: ['./src/index.js'],
   output: {
-    filename: 'main.js',
     path: path.resolve(__dirname, 'source'),
-  }
+    filename: 'main.js'
+  },
+  module: {
+    // JS Rules, babel transpiling
+
+    // SCSS rules
+  },
+  plugins: [
+  ],
 };
