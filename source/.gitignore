@@ -1,0 +1,5 @@
+# Ignore everything in this directory as it is used just as an intermediate container between build processes.
+*
+
+# Allow this gitignore file to keep directory in git.
+!.gitignore
